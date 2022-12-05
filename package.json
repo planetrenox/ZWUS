@@ -1,0 +1,26 @@
+{
+  "name": "zwus",
+  "version": "1.0.0",
+  "description": "Zero Width Unicode Standard",
+  "main": "zwus.mjs",
+  "files": [
+    "zwus.mjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planetrenox/inzerosight.git"
+  },
+  "keywords": [
+    "zero width",
+    "obfuscation",
+    "cipher",
+    "encoding",
+    "speck"
+  ],
+  "author": "planetrenox",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/planetrenox/inzerosight/issues"
+  },
+  "homepage": "https://github.com/planetrenox/inzerosight"
+}
